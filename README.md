@@ -16,4 +16,4 @@ Some stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true&show_icons=true&theme=dark">
 
-<img src="https://streak-stats.demolab.com?user=andriycraft&amp;background=88749C&amp;width=50%" width="100%">
+<img src="https://streak-stats.demolab.com?user=andriycraft&amp;background=808080&amp;width=50%" width="100%">
