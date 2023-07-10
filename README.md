@@ -7,7 +7,7 @@ Discord: `@kotinash`
 Currently working on:
 
    * <a href="https://github.com/andriycraft/GreenFrogMCBE">GreenFrogMCBE</a> [33% done]
-   * Lavender (discord bot)
+   * Lavender (~~discord~~ disshit bot)
    * Many private projects
 
 Some stats:
@@ -16,4 +16,4 @@ Some stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true&show_icons=true&theme=dark">
 
-<img src="https://streak-stats.demolab.com?user=andriycraft&amp;background=151317&amp;width=50%" width="100%">
+<img src="https://streak-stats.demolab.com?user=andriycraft&amp;background=88749C&amp;width=50%" width="100%">
