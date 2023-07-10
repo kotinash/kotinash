@@ -11,7 +11,7 @@ Currently working on:
    * Lavender (Discord bot)
    * Many private projects
 
-Some stats:
+Stats:
 
    <img src="https://profile-counter.glitch.me/andriycraft/count.svg">
    <img src="https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true&show_icons=true&theme=dark">
