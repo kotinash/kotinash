@@ -13,10 +13,5 @@ Currently working on:
 
 Some stats:
 
-  * <img src="https://profile-counter.glitch.me/andriycraft/count.svg">
-  * <img src="https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true&show_icons=true&theme=dark">
-
-Other stuff:
-
-  * Discord: `@kotinash`
-  * 
+   <img src="https://profile-counter.glitch.me/andriycraft/count.svg">
+   <img src="https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true&show_icons=true&theme=dark">
