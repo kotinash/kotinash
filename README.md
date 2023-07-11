@@ -1,8 +1,7 @@
-Hi, i’m <a href="https://github.com/aboxofrats/">@andriycraft</a> 👋
+Hi, i’m <a href="https://github.com/aboxofrats/">@aboxofrats</a> 👋
 
 Useless facts: 
 
-  * The name `"andriy"` can be spelled in 2 ways: `"andrii"` or `"andriy"` - both of them are correct
   * My Discord is `@kotinash`
 
 Currently working on:
@@ -13,5 +12,5 @@ Currently working on:
 
 Stats:
 
-   <img src="https://profile-counter.glitch.me/andriycraft/count.svg">
-   <img src="https://github-readme-stats.vercel.app/api?username=andriycraft&count_private=true&show_icons=true&theme=dark">
+   <img src="https://profile-counter.glitch.me/aboxofrats/count.svg">
+   <img src="https://github-readme-stats.vercel.app/api?username=aboxofrats&count_private=true&show_icons=true&theme=dark">
