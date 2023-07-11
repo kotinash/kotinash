@@ -1,8 +1,9 @@
-Hi, i’m <a href="https://github.com/aboxofrats/">@aboxofrats</a> 👋
+Hi, i’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
 
 Useless facts: 
 
   * My Discord is `@kotinash`
+  * My Discord pfp is cringy as hell
 
 Currently working on:
 
@@ -12,5 +13,5 @@ Currently working on:
 
 Stats:
 
-   <img src="https://profile-counter.glitch.me/aboxofrats/count.svg">
-   <img src="https://github-readme-stats.vercel.app/api?username=aboxofrats&count_private=true&show_icons=true&theme=dark">
+   <img src="https://profile-counter.glitch.me/kotinash/count.svg">
+   <img src="https://github-readme-stats.vercel.app/api?username=kotinash&count_private=true&show_icons=true&theme=dark">
