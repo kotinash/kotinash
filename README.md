@@ -7,7 +7,7 @@ Useless facts:
 
 Currently working on:
 
-   * <a href="https://github.com/aboxofrats/GreenFrogMCBE">GreenFrogMCBE</a>
+   * <a href="https://github.com/GreenFrogMCBE/GreenFrogMCBE">GreenFrogMCBE</a>
    * Lavender (Discord bot)
    * Many private projects
 
