@@ -3,7 +3,6 @@ Hi, i’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
 Useless facts: 
 
   * My Discord is `@kotinash`
-  * My Discord pfp is cringy as hell, but i've gotten so used to it that i don't want to change it.
 
 Currently working on:
 
