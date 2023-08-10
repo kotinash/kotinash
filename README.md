@@ -2,7 +2,7 @@ Hi, i’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
 
 Useless facts: 
 
-  * My Discord is `@kotinash`
+  * My Discord & Guilded is `@kotinash`
   * I mainly code in JS, TS and Java (ew)
 
 Currently working on:
