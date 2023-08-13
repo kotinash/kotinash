@@ -8,7 +8,6 @@ Useless facts:
 Currently working on:
 
    * <a href="https://github.com/GreenFrogMCBE/GreenFrogMCBE">GreenFrogMCBE</a>
-   * <a href="https://github.com/Re-BlueBirdMC/BlueBirdMC">BlueBirdMC</a>
    * Lavender (Discord bot)
    * Many private projects
 
