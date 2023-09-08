@@ -9,7 +9,7 @@ Currently working on:
 
    * <a href="https://github.com/GreenFrogMCBE/GreenFrogMCBE">GreenFrogMCBE</a>
    * Lavender (Discord bot)
-   * Many private projects
+   * Some private projects
 
 Stats:
 
