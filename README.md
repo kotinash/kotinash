@@ -1,4 +1,4 @@
-Hi, i’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
+Hi, I’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
 
 Some facts: 
 
