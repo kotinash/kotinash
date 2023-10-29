@@ -3,7 +3,7 @@ Hi, I’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
 Some facts: 
 
   * My Discord `@kotinash`
-  * I code in JS, TS, Java and a bit of Rust & C++
+  * I code in JS, TS, Java and C++
 
 Currently working on:
 
