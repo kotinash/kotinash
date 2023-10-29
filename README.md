@@ -5,6 +5,11 @@ Some facts:
   * My Discord `@kotinash`
   * I code in JS, TS, Java and a bit of Rust & C++
 
+Currently working on:
+
+  * NoteBlock (I'm one of its developers) - A MCBE server software in C++
+  * BDSDecompiled
+
 Stats:
 
    <img src="https://profile-counter.glitch.me/kotinash/count.svg">
