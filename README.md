@@ -1,8 +1,8 @@
-Hi, I’m <a href="https://github.com/kotinash/">@rdfczhmeyzanoxaqyvgwjbwjfzvoaxih</a> 👋
+Hi, I’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
 
 Some facts: 
 
-  * My Discord is `@kotinash`
+  * My Discord is `@rdfczhmeyzanoxaqyvgwjbwjfzvoaxih` (my main) or `@kotinash`
   * I code in JS, TS, Java and C++
 
 Currently working on:
