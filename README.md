@@ -2,8 +2,8 @@ Hi, I’m <a href="https://github.com/kotinash/">@kotinash</a> 👋
 
 Some facts: 
 
-  * My Discord is `@rdfczhmeyzanoxaqyvgwjbwjfzvoaxih` (my main) or `@kotinash`
-  * I code in JS, TS, Java and C++
+  * My Discord is `@rdfczhmeyzanoxaqyvgwjbwjfzvoaxih` / `@kotinash`
+  * I code in JS, TS, Java, and C++
 
 Currently working on:
 
