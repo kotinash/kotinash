@@ -8,7 +8,6 @@ Some facts:
 Currently working on:
 
   * NoteBlock - A MCBE server software in C++
-  * BDSDecompiled
 
 Stats:
 
