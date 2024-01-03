@@ -5,10 +5,6 @@ Some facts:
   * My Discord is `@rdfczhmeyzanoxaqyvgwjbwjfzvoaxih` / `@kotinash`
   * I code in JS, TS, Java, and C++
 
-Currently working on:
-
-  * NoteBlock - A MCBE server software in C++
-
 Stats:
 
    <img src="https://profile-counter.glitch.me/kotinash/count.svg">
