@@ -4,3 +4,5 @@ Some facts:
 
   * My Discord is `@kotinash`
   * I code in JS, TS, Kotlin, and C++
+
+<img src="https://profile-counter.glitch.me/kotinash/count.svg">
